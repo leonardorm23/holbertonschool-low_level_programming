@@ -1,6 +1,6 @@
 #!/bin/bash
 #include <stdio.h>
-main()
+int puts(const char *s)
 {
 	puts("Programming is like building a multilingual puzzle")
 }
