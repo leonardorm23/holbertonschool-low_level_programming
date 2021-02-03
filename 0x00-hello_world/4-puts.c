@@ -1,5 +1,5 @@
 #include <stdio.h>
-int puts(const char *s);
+main()
 {
 	puts("Programming is like building a multilingual puzzle")
 }
